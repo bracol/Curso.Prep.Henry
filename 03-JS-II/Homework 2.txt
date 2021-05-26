@@ -1,0 +1,4 @@
+for = Es un bucle para realizar tareas repetitivas.
+&&, ||, ! = Estos son operadores logicos, 
+nos establecen resultados siempre y cuando se cumpla o no una cierta condicion, 
+producen resultados booleanos (true o false).
