@@ -1,0 +1,24 @@
+Variables: Es un espacio donde nos permite almacenar informacion
+de un tipo determinado. En programacion estos tipos de datos son 
+los numeros, los caracteres y los logicos.
+
+String: Conjunto de caracteres encerrados entre comillas ('')
+
+Funciones: Estas son muy importantes en el lenguaje de la programacion.
+Sobre todo en JavaScript. Esta permite la comunicacion usuario-maquina.
+Unos programas especiales convierten las instrucciones escritas en 
+codigo fuente, es decir en instrucciones escritas en lenguaje maquina (0 y 1).
+
+Argumentos: Estos son un conjunto de expresiones entre comas evaluadas de izquierda a derecha
+donde se le da informacion a las funciones.
+
+Return: Fuerza una salida de la funcion en la que se encuentra, es de cir hace que la ejecucion
+del programa vuelva al codigo que la funcion llamo. Asi tambien nos sirve para que
+nos devuelva un valor.
+
+Declaraciones if: Esta se utiliza para evaluar si una declaracion es condicional.
+Si ésta se cumple nos ejecutara un bloque de codigo, de lo contrario podria ejecutarnos otra
+sentencia. Es decir esto nos podra devolver si es verdadero o falso ( true o false ).
+
+Valores booleanos: Esta expresion evalua valores de logica binaria, normalmente representa Falso o Verdadero.
+
